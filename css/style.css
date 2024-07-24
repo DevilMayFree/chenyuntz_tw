@@ -254,7 +254,7 @@ footer .container{position:relative}
 .footer__infoLink i{font-size: 13px;opacity: .6;margin-right: 5px;}
 .footer__box{display:flex;justify-content: space-between;align-items: self-end;}
 .footer__info{width:340px;}
-.footer__sitemp{width: calc(100% - 500px);display: grid;grid-template-columns: repeat(4,1fr);grid-column-gap: 40px;}
+.footer__sitemp{width: calc(100% - 500px);height: 22rem;/*display: grid;grid-template-columns: repeat(4,1fr);grid-column-gap: 40px;*/}
 .footer__sitempList{list-style:none;padding-left: 0;margin-bottom: 0;}
 .footer__sitempList+.footer__sitempList{position: relative;}
 
